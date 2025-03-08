@@ -8,7 +8,7 @@ export default function Footer() {
           <p className="text-gray-300 mb-4">
             Design outstanding interfaces with advanced Figma features in a matter of minutes.
           </p>
-          <div className="flex space-x-4 text-xl">
+          <div className="flex py-4 space-x-4 text-xl">
             <FaFacebookF className="cursor-pointer" />
             <FaGoogle className="cursor-pointer" />
             <FaApple className="cursor-pointer" />
